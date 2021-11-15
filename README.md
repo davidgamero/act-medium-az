@@ -8,7 +8,9 @@ This should fix issues running az-login github action
 
 Build docker image locally
 
-`$ ./build.sh`
+```
+$ ./build.sh
+```
 
 Set as test runner for desired image for act in `~/.act.rc`
 ```
