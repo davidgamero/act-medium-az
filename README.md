@@ -1,6 +1,6 @@
 # act-medium-az
 
-A dockerfile for building the Nektos Act medium image on ubuntu-latest with az-cli included
+A dockerfile for building the [Nektos Act](https://github.com/nektos/act) medium image on ubuntu-latest with az-cli included
 
 This should fix issues running az-login github action
 
